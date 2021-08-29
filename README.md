@@ -1,3 +1,5 @@
+
+<div style="background-color: #1A1B27; width: 80em" > 
 ### Hi there 👋 I'm Marcos P S Viana
 
 
@@ -9,13 +11,13 @@
 - 🌱 I’m currently learning VueJs 
 - 📫 How to reach me: marcospaulo.silvaviana@gmail.com
 
-
+<div align="center" style="background-color: #1A1B27; width: 80em" > 
  <div>
   <a href="https://github.com/marcospsviana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcospsviana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsviana&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block; background-color: #1A1B27; height:5em; width: 56.5em" ><br>
   <img align="center" alt="MarcosPSViana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MarcosPSViana-VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="MarcosPSViana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,7 +32,7 @@
   
   ##
  
-<div> 
+<div style="background-color: #1A1B27; width: 56.5em" > 
   
   <a href="https://instagram.com/marcospsviana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/marcospsvianai" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -40,4 +42,6 @@
  
   
  
+</div>
+</div>
 </div>
