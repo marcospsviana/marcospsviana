@@ -1,16 +1,16 @@
 
-<div style="background-color: #1A1B27; width: 80em" > 
+<div style="background-color: #CB5CD4; width: 80em" > 
 ### Hi there 👋 I'm Marcos P S Viana
 
 
 
 
 
-<div style="background-color:  #CB5CD4>
+
 - 🔭 I’m currently working on Python Back-end Django / Flask
 - 🌱 I’m currently learning VueJs 
 - 📫 How to reach me: marcospaulo.silvaviana@gmail.com
-            </div>
+           
 <div align="center" style="background-color: #1A1B27; width: 80em" > 
  <div>
   <a href="https://github.com/marcospsviana">
@@ -32,7 +32,7 @@
   
   ##
  
-<div style="background-color: #1A1B27; width: 56.5em" > 
+<div style="background-color: #1A1B27; width: 56.5em; height: 30em" > 
   
   <a href="https://instagram.com/marcospaulo.silvaviana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<!-- <a href="https://www.twitch.tv/marcospsvianai" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
