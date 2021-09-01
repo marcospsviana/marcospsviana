@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning VueJs 
 - 📫 How to reach me: marcospaulo.silvaviana@gmail.com
 
-<div align="center" style="background-color: #CB5CD4; width: 80em" > 
+<div align="center" style="background-color: #1A1B27; width: 80em" > 
  <div>
   <a href="https://github.com/marcospsviana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcospsviana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
