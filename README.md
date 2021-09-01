@@ -6,11 +6,11 @@
 
 
 
-
+<div style="background-color:  #CB5CD4>
 - 🔭 I’m currently working on Python Back-end Django / Flask
 - 🌱 I’m currently learning VueJs 
 - 📫 How to reach me: marcospaulo.silvaviana@gmail.com
-
+            </div>
 <div align="center" style="background-color: #1A1B27; width: 80em" > 
  <div>
   <a href="https://github.com/marcospsviana">
