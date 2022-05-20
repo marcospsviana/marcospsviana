@@ -25,7 +25,7 @@
   
   <img align="center" alt="MarcosPSViana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="MarcosPSViana-Flask" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" style="background-color: #fff;">
-  <img align="center" alt="MarcosPSViana-Django" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="MarcosPSViana-Django" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   
   
 </div>
