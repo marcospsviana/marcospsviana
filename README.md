@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on Python Back-end Django / Flask
+- 🔭 I’m currently working on Python Back-end Django / Flask and React
 - 🌱 I’m currently learning VueJs 
 - 📫 How to reach me: marcospaulo.silvaviana@gmail.com
            
