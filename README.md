@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on Python Back-end Django / Flask and React
-- 🌱 I’m currently learning VueJs 
+- 🌱 I’m currently learning AWS, Terraform 
 - 📫 How to reach me: marcospaulo.silvaviana@gmail.com
            
 <!-- <div align="center" style="background-color: #1A1B27; width: 80em" > 
