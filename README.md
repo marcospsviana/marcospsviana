@@ -11,7 +11,7 @@
 - 📫 How to reach me: marcospaulo.silvaviana@gmail.com
 
   ![marcos paulo silva viana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcospsviana)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsviana&hide_progress=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsviana&hide_progress=false)
            
 <!-- <div align="center" style="background-color: #1A1B27; width: 80em" > 
  <div>
