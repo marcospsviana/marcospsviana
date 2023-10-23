@@ -13,7 +13,7 @@
   ![marcos paulo silva viana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcospsviana)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsviana&hide_progress=false)
   <br>
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcospsviana)](https://github.com/marcospsviana/github-readme-stats)
+  
            
 <!-- <div align="center" style="background-color: #1A1B27; width: 80em" > 
  <div>
