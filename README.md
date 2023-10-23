@@ -35,7 +35,7 @@
   ##
 
              
-           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsviana)](https://github.com/marcospsviana/github-readme-stats)
+           ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsviana&hide_progress=false)
  
  
 <div style="background-color: #1A1B27; width: 56.5em" > 
