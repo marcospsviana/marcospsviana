@@ -35,10 +35,10 @@
   ##
 
              
-           ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsviana&hide_progress=false)
  
  
 <div style="background-color: #1A1B27; width: 56.5em" > 
+           ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsviana&hide_progress=false)
   
   <a href="https://instagram.com/marcospaulo.silvaviana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<!-- <a href="https://www.twitch.tv/marcospsvianai" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
