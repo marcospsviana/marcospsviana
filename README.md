@@ -7,8 +7,7 @@
 
 
 
-- 🔭 I’m currently working on Python Back-end Django / Flask and React
-- 🌱 I’m currently learning AWS, Terraform 
+- 🔭 I’m currently working on Python Back-end Django / Flask
 - 📫 How to reach me: marcospaulo.silvaviana@gmail.com
            
 <!-- <div align="center" style="background-color: #1A1B27; width: 80em" > 
@@ -29,6 +28,7 @@
   
   
 </div> -->
+![marcos paulo silva viana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcospsviana)
   
   ##
  
