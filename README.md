@@ -29,6 +29,10 @@
   
 </div> -->
 ![marcos paulo silva viana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcospsviana)
+
+<div>
+           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsviana)](https://github.com/marcospsviana/github-readme-stats)
+</div>
   
   ##
  
