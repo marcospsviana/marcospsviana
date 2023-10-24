@@ -15,30 +15,6 @@
   <br>
   
            
-<!-- <div align="center" style="background-color: #1A1B27; width: 80em" > 
- <div>
-  <a href="https://github.com/marcospsviana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcospsviana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsviana&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div style="display: inline_block; background-color: #1A1B27; height:5em; width: 56.5em" ><br>
-  <img align="center" alt="MarcosPSViana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MarcosPSViana-VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="MarcosPSViana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="MarcosPSViana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="MarcosPSViana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="MarcosPSViana-Flask" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" style="background-color: #fff;">
-  <img align="center" alt="MarcosPSViana-Django" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
-  
-  
-</div> -->
-
-
-
-  
-  ##
-
              
  
  
