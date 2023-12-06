@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Python Back-end Django / Flask
 - 📫 How to reach me: marcospaulo.silvaviana@gmail.com
 
-  ![marcos paulo silva viana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcospsviana)
+  <!-- ![marcos paulo silva viana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcospsviana) -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsviana&hide_progress=false)
   <br>
   
